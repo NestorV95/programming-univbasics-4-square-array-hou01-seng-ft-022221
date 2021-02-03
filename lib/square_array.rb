@@ -6,3 +6,5 @@ def square_array(array)
   while array  do
     array
 end
+new_array
+end
